@@ -1,0 +1,16 @@
+Key Insights
+
+1. Total sales reached around 322.97K, with total profit around 15.38K and profit margin around 4.76%.
+2. Sales and profit are mainly influenced by Quantity and Unit Price, while margin remains relatively consistent across product categories.
+3. Sales and profit distribution across product lines and cities are relatively balanced, indicating that the business is not highly dependent on a single product category or city.
+4. Daily sales performance is relatively stable, with no major difference between days.
+5. Hourly sales patterns show higher activity around lunch and evening hours, indicating potential customer behavior patterns during break times.
+6. Correlation analysis shows that cogs, gross income, and Tax 5% have perfect correlation with Sales because these variables are mathematically related.
+
+Business Recommendations
+
+1. Focus on increasing transaction volume because profit margin is relatively constant.
+2. Maintain balanced sales performance across product categories and cities to reduce dependency on a single segment.
+3. Optimize stock and staff readiness during peak activity hours, especially around lunch and evening periods.
+4. Monitor lower-performing hours to identify limited opportunities for targeted promotions.
+5. Interpret correlation results carefully, especially for variables that are directly related by calculation.
